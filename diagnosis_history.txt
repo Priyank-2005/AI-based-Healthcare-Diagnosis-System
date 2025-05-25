@@ -1,0 +1,82 @@
+--- 2025-04-10 01:42:33 ---
+Symptoms: fever, cough, sore throat
+- Flu (83%)
+- Swine Flu (80%)
+- Measles (50%)
+
+--- 2025-04-10 01:42:33 ---
+Symptoms: fever, cough, sore throat
+- Flu (83%)
+- Swine Flu (80%)
+- Measles (50%)
+
+--- 2025-04-10 01:42:33 ---
+Symptoms: fever, cough, sore throat
+- Flu (83%)
+- Swine Flu (80%)
+- Measles (50%)
+
+--- 2025-04-10 01:48:25 ---
+Name: priyank, Age: 20
+Symptoms: fever, cough, sore throat
+- Flu (83%)
+- Swine Flu (80%)
+- Measles (50%)
+
+--- 2025-04-10 02:07:37 ---
+Name: priyank, Age: 20
+Symptoms: bukhaar, khaasi
+
+--- 2025-04-10 02:08:12 ---
+Name: priyank, Age: 20
+Symptoms: bukhaar
+
+--- 2025-04-10 02:10:11 ---
+Name: priyank, Age: 20
+Symptoms: fever
+- Measles (30%)
+- Swine Flu (30%)
+- Malaria (25%)
+
+--- 2025-04-10 14:10:14 ---
+Name: Ayushi, Age: 20
+Symptoms: fever, cough
+- Flu (66%)
+- Swine Flu (60%)
+- Measles (50%)
+
+--- 2025-04-10 14:43:54 ---
+Name: xyz, Age: 20
+Symptoms: fever, khasi
+- Flu (33%)
+- Measles (30%)
+- Swine Flu (30%)
+
+--- 2025-04-10 14:45:12 ---
+Name: nfh, Age: 39
+Symptoms: fever, cough
+- Flu (66%)
+- Swine Flu (60%)
+- Measles (50%)
+
+--- 2025-04-10 14:57:52 ---
+Name: bodar, Age: 20
+Symptoms: jukham, headache, cold, diarrhea, vomiting, itching, shortness of breath
+- Food Poisoning (54%)
+- Scabies (37%)
+- Malaria (33%)
+
+--- 2025-05-01 13:08:35 ---
+Name: aadam, Age: 20
+Symptoms: stress, hairfall, cough
+- Flu (33%)
+- Bronchitis (33%)
+- Swine Flu (30%)
+
+--- 2025-05-02 13:57:09 ---
+Name: zeel, Age: 22
+Symptoms: headache, belching, constipation
+- Migraine (30%)
+- Sinusitis (25%)
+- Typhoid (22%)
+
